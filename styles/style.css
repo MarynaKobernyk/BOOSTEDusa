@@ -71,6 +71,9 @@ select {
   font: inherit;
 }
 
+img {
+  max-width: 100%;
+}
 body {
   font-family: "Roboto", sans-serif;
   position: relative;
@@ -290,7 +293,6 @@ body {
 
 .boards__revs1,
 .boards__revs2 {
-  width: 100%;
   padding: 0 10px;
 }
 
