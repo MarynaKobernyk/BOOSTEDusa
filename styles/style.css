@@ -71,9 +71,6 @@ select {
   font: inherit;
 }
 
-img {
-  max-width: 100%;
-}
 body {
   font-family: "Roboto", sans-serif;
   position: relative;
@@ -557,7 +554,7 @@ body {
   height: 186px;
 }
 
-.accessories p {
+.accessoriezs p {
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
